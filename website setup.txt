@@ -1,0 +1,47 @@
+list of commands used in vagrant system in root:-
+
+    1  vi /etc/hostname
+    2  vim /etc/hostname
+    3  hostname finance
+    4  exit
+    5  clear
+    6  yum install httpd
+    7  clear
+    8  yum install wget vim unzip zip -y
+    9  clear
+   10  systemctl start httpd
+   11  systemctl enable httpd
+   12  ip addr show
+   13  clear
+   14  cd /var/www/html
+   15  ls
+   16  vim index.html
+   17  systemctl restart httpd
+   18  cd /tmp/
+   19  wget https://www.tooplate.com/zip-templates/2143_inner_peace.zip
+   20  ls
+   21  unzip 2143_inner_peace.zip
+   22  ls
+   23  cd 2143_inner_peace/
+   24  clear
+   25  pwd
+   26  ls
+   27  clear
+   28  ls
+   29  cp -r * /var/www/html
+   30  ls /var/www/html
+   31  systemctl restart httpd
+   32  cd
+   33  clear
+   34  systemctl status httpd
+   35  ls /var/www/html
+   36  systemctl status fireballd
+   37  systemctl status firewalld
+   38  systemctl stop firewalld
+   39  systemctl disable firewalld
+   40  systemctl status firewalld
+   41  systemctl status httpd
+   42  ls /var/www/html
+   43  ip addr show
+   44  clear
+   45  history
